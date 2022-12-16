@@ -1,5 +1,4 @@
-﻿#define DEBUG_ACCOUNT
-using System;
+﻿using System;
 using System.Reflection;
 
 namespace T14
